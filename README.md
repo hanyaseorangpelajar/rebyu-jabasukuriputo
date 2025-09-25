@@ -11,6 +11,9 @@
 > This project was created purely for educational purposes and as a form of appreciation, and is therefore not intended for commercial use or any financial gain.
 
 ## Contributors
-<a href="https://github.com/hanyaseorangpelajar/igate-ticket-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hanyaseorangpelajar/igate-ticket-2023" />
+
+<div align="left">
+<a href="https://github.com/hanyaseorangpelajar/miscmisc/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hanyaseorangpelajar/miscmisc" />
 </a>
+</div>
